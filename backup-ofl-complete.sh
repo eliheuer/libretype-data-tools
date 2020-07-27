@@ -16,8 +16,6 @@ mkdir "OFL-BACKUP-$(date +"%d-%m-%Y")"
 OFLDIR="OFL-BACKUP-$(date +"%d-%m-%Y")"
 echo "[TEST] Backup directory created: $OFLDIR"
 cd $OFLDIR
-echo "[INFO] Current directory: \c"
-pwd
 
 # Use IFS to read from the CSV and download each font repo
 # https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html#Shell-Variables
