@@ -11,6 +11,8 @@ You will need a [BASH-like](https://www.gnu.org/savannah-checkouts/gnu/bash/manu
 ```
 sh backup-ofl-complete.sh
 ```
+A full OFL backup currently requiers about `30GB` of free disk space and can take a considerable amout of time depending on your internet connection speed.
+
 If there is a typeface you want to see included, please make a pull request or issue to add it.
 
 ![example image](screenshots/screenshot-02.png)
