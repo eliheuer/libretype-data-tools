@@ -1,5 +1,6 @@
 # 🧰 Libretype Data Tools
 Libretype Data Tools is a collection of scripts for working with the whole [libre/open-source](https://en.wikipedia.org/wiki/Free_and_open-source_software) typeface ecosystem.
+## Tools
 ### backup-ofl-complete.sh
 
 >⚠️ Warning: The [CSV spreadsheet](csv-data/OFL.txt) this uses is under active development and currently only backs up popular repositories on GitHub up to about 16 stars. Pull requests are welcome to improve the [CSV spreadsheet](csv-data/OFL.txt). I hope to have this populated with at least the top 3000 OFL fonts ASAP. -Eli
