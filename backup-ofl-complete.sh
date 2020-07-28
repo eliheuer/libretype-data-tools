@@ -7,6 +7,13 @@ set -e
 # and preservation of the OFL ecosystem might
 # run this script once per quarter to create
 # personal backups for example.
+echo ""
+echo "    __    ____              __"
+echo "   / /   /_/ /_  ________  / /___  ______  ___"
+echo "  / /   / / __ \/ ___/ _ \/ __/ / / / __ \/ _ \\"
+echo " / /___/ / /_/ / /  /  __/ /_/ /_/ / /_/ /  __/"
+echo "/_____/_/_.___/_/   \___/\__/\__, / .___/\___/"
+echo "Data Tools: OFL Full Backup /____/_/"
 echo "\n****** STARTING BACKUP OF THE FULL KNOWN OFL ECOSYSTEM ******"
 echo "[INFO] Backup start time: \c"
 date
