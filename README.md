@@ -9,4 +9,4 @@ You will need a [BASH-like](https://www.gnu.org/savannah-checkouts/gnu/bash/manu
 sh backup-ofl-complete.sh
 ```
 
-![Use example image](screenshots/screenshot-01.png)
+![example image](screenshots/screenshot-02.png)
